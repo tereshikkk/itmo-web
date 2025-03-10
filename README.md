@@ -1,12 +1,7 @@
 # Heading1
 ## Heading2
 ### Headig3
-Text
-**Bold**
-
-> hi mark
-
-
+ -  3232
 ```python3
 print('hello world')
 ```
